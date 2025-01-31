@@ -5,10 +5,18 @@
 
 
 # 💫 About Me:
-📚 I'm currently attending the University of North Texas, pursuing a B.S. in Computer Science.<br>🌱 I’m learning about Full-Stack Web Development, Data Structures and Algorithms, and E-Commerce.<br>⚡ In my free time, I like playing Tekken.
+📚 I'm currently attending the University of North Texas, pursuing a B.S. in Computer Science.
+<br>🌱 I’m learning about Full-Stack Web Development, Data Structures and Algorithms, and E-Commerce.
+<br>⚡ In my free time, I like playing Tekken.
 
 
-## 🌐 Socials:
+# 👨🏼‍💻 Personal Projects
+  - [monsterMatcher](https://github.com/clintonnguyen/monsterMatcher)
+  - [noteTaker](https://github.com/clintonnguyen/noteTaker)
+  - [portfolio](https://github.com/clintonnguyen/clinton-portfolio)
+
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clinton-nguyen) 
 
 # 💻 Tech Stack:
